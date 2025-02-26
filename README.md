@@ -5,7 +5,7 @@ This project builds a predictive model to determine whether a passenger on the T
 ## Project Structure
 
 - `Titanic-Dataset.csv`: The dataset used for training the model.
-- `Titanic_Survival_Model.py`: Code for data preprocessing, feature selection, and training the neural network.
+- `Titanic_Survival_Model.ipynb`: Code for data preprocessing, feature selection, and training the neural network.
 - `Titanic_Prediction.py`: A script that loads the trained model and takes user input to predict survival.
 - `titanic_survival_model.h5`: The saved trained model for future use.
 - `README.md`: This file, providing an overview of the project.
